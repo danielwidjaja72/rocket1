@@ -1,0 +1,12 @@
+c:\Users\josep\rust_code\hello-rocket\target\debug\deps\aes_soft-c0ba3bea945d48e6.rmeta: C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\lib.rs C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\simd.rs C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\bitslice.rs C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\expand.rs C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\consts.rs C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\impls.rs
+
+c:\Users\josep\rust_code\hello-rocket\target\debug\deps\libaes_soft-c0ba3bea945d48e6.rlib: C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\lib.rs C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\simd.rs C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\bitslice.rs C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\expand.rs C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\consts.rs C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\impls.rs
+
+c:\Users\josep\rust_code\hello-rocket\target\debug\deps\aes_soft-c0ba3bea945d48e6.d: C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\lib.rs C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\simd.rs C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\bitslice.rs C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\expand.rs C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\consts.rs C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\impls.rs
+
+C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\lib.rs:
+C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\simd.rs:
+C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\bitslice.rs:
+C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\expand.rs:
+C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\consts.rs:
+C:\Users\josep\.cargo\registry\src\github.com-1ecc6299db9ec823\aes-soft-0.3.3\src\impls.rs:
